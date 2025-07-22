@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 opencv-python-headless
 tensorflow>=2.12
@@ -6,3 +7,12 @@ numpy
 pandas
 streamlit-webrtc
 protobuf==3.20.*
+=======
+streamlit
+opencv-python-headless
+tensorflow>=2.12
+Pillow
+numpy
+pandas
+streamlit-webrtc
+>>>>>>> b9fed40 (Fix requirements for Streamlit Cloud)
