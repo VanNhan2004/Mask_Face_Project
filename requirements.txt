@@ -1,7 +1,7 @@
 streamlit
 opencv-python-headless
-tensorflow
+tensorflow>=2.12
+Pillow
 numpy
 pandas
-Pillow
 streamlit-webrtc
