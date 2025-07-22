@@ -5,3 +5,4 @@ Pillow
 numpy
 pandas
 streamlit-webrtc
+protobuf==3.20.*
