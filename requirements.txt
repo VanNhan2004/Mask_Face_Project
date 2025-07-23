@@ -1,8 +1,8 @@
 streamlit>=1.30
 opencv-python-headless
 tensorflow==2.11.0
-numpy
 pandas
+numpy
 Pillow
 streamlit-webrtc
 protobuf==3.20.*
